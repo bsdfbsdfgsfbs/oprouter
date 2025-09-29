@@ -1,4 +1,4 @@
-# 🤖 OpRouter - AI Chat Client
+# 🤖 OpRouter - OpenRouter SDK Client for Python
 
 A Python library for chatting with AI models through OpenRouter. Simple to use, reliable, and feature-rich.
 
