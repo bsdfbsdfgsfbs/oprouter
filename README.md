@@ -318,20 +318,6 @@ async with OpenRouterClient() as client:
         print("❌ API issues")
 ```
 
-## 🏗️ Project Structure
-
-```
-oprouter/
-├── main.py              # Start the CLI chat
-├── oprouter/
-│   ├── api_client.py    # Main API client
-│   ├── conversation.py  # Conversation management
-│   ├── cli.py          # Interactive interface
-│   └── config.py       # Configuration
-├── examples/           # Usage examples
-└── requirements.txt    # Dependencies
-```
-
 ## 🆘 Troubleshooting
 
 **"API key not found"**
