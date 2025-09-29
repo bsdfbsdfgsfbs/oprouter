@@ -66,7 +66,7 @@ python main.py
 **Option 3: Use in Your Code**
 ```python
 import asyncio
-from oprouter.api_client import OpenRouterClient
+from oprouter import OpenRouterClient
 
 async def chat():
     async with OpenRouterClient() as client:
@@ -84,7 +84,7 @@ asyncio.run(chat())
 
 ```python
 import asyncio
-from oprouter.api_client import OpenRouterClient
+from oprouter import OpenRouterClient
 
 async def simple_chat():
     async with OpenRouterClient() as client:
@@ -100,8 +100,8 @@ asyncio.run(simple_chat())
 
 ```python
 import asyncio
-from oprouter.api_client import OpenRouterClient
-from oprouter.conversation import Conversation, MessageRole
+from oprouter import OpenRouterClient
+from oprouter.storage import Conversation, MessageRole
 
 async def conversation_example():
     async with OpenRouterClient() as client:
@@ -135,7 +135,7 @@ asyncio.run(conversation_example())
 
 ```python
 import asyncio
-from oprouter.api_client import OpenRouterClient
+from oprouter import OpenRouterClient
 
 async def streaming_example():
     async with OpenRouterClient() as client:
@@ -153,7 +153,7 @@ asyncio.run(streaming_example())
 
 ```python
 import asyncio
-from oprouter.api_client import OpenRouterClient
+from oprouter import OpenRouterClient
 
 async def model_example():
     # Use a specific model
@@ -170,7 +170,7 @@ asyncio.run(model_example())
 
 ```python
 import asyncio
-from oprouter.api_client import OpenRouterClient
+from oprouter import OpenRouterClient
 
 async def safe_chat():
     async with OpenRouterClient() as client:
